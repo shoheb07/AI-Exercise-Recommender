@@ -1,0 +1,73 @@
+{
+ "chest":[
+  {
+   "name":"Push Up",
+   "difficulty":"Beginner",
+   "equipment":"Bodyweight",
+   "gif":"https://i.imgur.com/8QZ7Z5P.gif"
+  },
+  {
+   "name":"Bench Press",
+   "difficulty":"Intermediate",
+   "equipment":"Barbell",
+   "gif":"https://i.imgur.com/c6Gqk3L.gif"
+  }
+ ],
+
+ "biceps":[
+  {
+   "name":"Dumbbell Curl",
+   "difficulty":"Beginner",
+   "equipment":"Dumbbells",
+   "gif":"https://i.imgur.com/HRKp9gL.gif"
+  },
+  {
+   "name":"Hammer Curl",
+   "difficulty":"Intermediate",
+   "equipment":"Dumbbells",
+   "gif":"https://i.imgur.com/9w9Qp3L.gif"
+  }
+ ],
+
+ "legs":[
+  {
+   "name":"Squat",
+   "difficulty":"Beginner",
+   "equipment":"Barbell",
+   "gif":"https://i.imgur.com/fJ8QJvP.gif"
+  },
+  {
+   "name":"Lunges",
+   "difficulty":"Beginner",
+   "equipment":"Bodyweight",
+   "gif":"https://i.imgur.com/J8K5O6p.gif"
+  }
+ ],
+
+ "shoulders":[
+  {
+   "name":"Shoulder Press",
+   "difficulty":"Intermediate",
+   "equipment":"Dumbbells",
+   "gif":"https://i.imgur.com/Y4p8Y5O.gif"
+  }
+ ],
+
+ "back":[
+  {
+   "name":"Pull Ups",
+   "difficulty":"Advanced",
+   "equipment":"Pull Up Bar",
+   "gif":"https://i.imgur.com/ruB7S5X.gif"
+  }
+ ],
+
+ "abs":[
+  {
+   "name":"Crunches",
+   "difficulty":"Beginner",
+   "equipment":"Bodyweight",
+   "gif":"https://i.imgur.com/x6qO3pM.gif"
+  }
+ ]
+}
