@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>AI Exercise Recommender</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>AI Exercise Recommender</h1>
+
+<div class="container">
+
+<div class="selector">
+
+<label>Select Body Part</label>
+
+<select id="bodyPart">
+<option value="">Choose Muscle</option>
+<option value="chest">Chest</option>
+<option value="biceps">Biceps</option>
+<option value="triceps">Triceps</option>
+<option value="legs">Legs</option>
+<option value="shoulders">Shoulders</option>
+<option value="back">Back</option>
+<option value="abs">Abs</option>
+</select>
+
+<button onclick="startVoice()">🎤 Voice Input</button>
+
+</div>
+
+<div id="exerciseContainer"></div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
